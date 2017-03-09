@@ -1,0 +1,62 @@
+﻿@using MvcApplication1.Resources.Tournament
+@{
+    ViewBag.Title = "TournamentResults";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2 style=" margin-left:120px; font-style: oblique;">@Tournament.Results</h2>
+
+@model MvcApplication1.Models.TournamentResultViewModel
+<table border="1" style=" border:2px solid #B22222; text-align: center;">
+    <tr style="border-bottom: solid 5px #A30000; margin-bottom: 0px; background: #A30000; color:white; ">
+        <td>@Tournament.Players</td>
+        <td>@Tournament.Point</td>
+    </tr>
+    <tr>
+        <td>
+            <table border="1" style=" border:2px solid #B22222; text-align: center;">
+                @for (int i = 0; i < Model.Emails.Length; i++)
+                {
+                    if (i < 3)
+                    {
+                        <tr style=" background: rgba(4, 0, 238, 0.20); ">
+                            <td style="width:350px;"> @Model.Emails[i]</td>
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr >
+                            <td style="width:350px"> @Model.Emails[i]</td>
+                        </tr>
+                    }
+                }
+            </table>
+        </td>
+        <td>
+            <table border="1" style=" border:2px solid #B22222; text-align: center; ">
+               
+                @for (int j = 0; j < Model.Points.Length; j++)
+                {
+                    if (j < 3)
+                    {
+                        <tr style=" background: rgba(4, 0, 238, 0.20);">
+                            <td style="width:100px;">@Model.Points[j] </td>
+                        </tr>
+                    }
+                    else 
+                    { 
+                    <tr>
+                        <td style="width:100px;"> @Model.Points[j] </td>
+                    </tr>
+                    }
+                }
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<span style=" background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%); text-align: center; margin-left: 180px; padding:4px 60px; border-radius:5px; border:2px solid #7d17ad;">
+    @Html.ActionLink(Tournament.Ago, "TournamentTable", "Tournament", new { tournamentId = Model.IdTournament }, null)
+</span>
+<div style=" position:absolute;top: 270px; left:650px;">
+    <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+</div>

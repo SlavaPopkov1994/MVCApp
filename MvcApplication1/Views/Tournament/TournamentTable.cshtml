@@ -1,0 +1,68 @@
+﻿@using MvcApplication1.Resources.Tournament
+@{
+    ViewBag.Title = "TournamentTable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.PointsPlayerList
+<h2 style=" margin-left:300px; font-style: oblique;">@Tournament.Table</h2>
+<table border="1" style=" border:2px solid #B22222; text-align: center;">
+    <tr>
+        <td></td>
+        @foreach (var email in Model.Emails)
+        {
+            <td style="border-bottom: solid 5px #A30000; margin-bottom: 0px; background: #A30000; color:white;">@email</td>
+        }
+    </tr>
+    @for (int i = 0; i < Model.PointsTable.Length; i++)
+    {
+        <tr>
+            <td style="border-bottom: solid 5px #A30000; margin-bottom: 0px; background: #A30000; color:white;">@Model.Emails[i]</td>
+            @for (int j = 0; j < Model.PointsTable.Length; j++)
+            {
+                <td>
+                    @if (Model.PointsTable[i][j] != null)
+                    {
+
+                        if (MvcApplication1.Helpers.UserContext.IsAdmin)
+                        {
+                            if (Model.PointsTable[i][j].PointsPlayer1 == -1)
+                            {
+                                @Html.ActionLink(Tournament.Game, "EditingPoints", "Tournament", new { gameId = Model.PointsTable[i][j].IdGame, IdChamp = Model.IdTournament }, null)
+                            }
+                            else
+                            {
+                                @Html.ActionLink(Model.PointsTable[i][j].PointsPlayer1 + "-" + Model.PointsTable[i][j].PointsPlayer2, "EditingPoints", "Tournament", new { gameId = Model.PointsTable[i][j].IdGame, IdChamp = Model.IdTournament }, null)
+                            }
+                        }
+                        else
+                        {
+                            if (Model.PointsTable[i][j].PointsPlayer1 == -1)
+                            {
+                                <label> @Tournament.Game </label>
+                            }
+                            else
+                            {
+                                @Model.PointsTable[i][j].PointsPlayer1
+                                <text> - </text>
+                                @Model.PointsTable[i][j].PointsPlayer2
+                            }
+                        }
+                    }
+                    else
+                    {
+                        <text>-</text>
+                    }
+                </td>
+            }
+        </tr>
+    }
+
+</table>
+<br />
+<br />
+<span style=" background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%); text-align: center; margin-left: 340px; padding: 8px; border-radius:5px; border:2px solid #7d17ad;">
+    @Html.ActionLink(Tournament.Results, "TournamentResults", "Tournament", new { IdChamp = Model.IdTournament }, null)
+</span>
+<br />
+

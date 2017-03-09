@@ -1,0 +1,28 @@
+﻿@using MvcApplication1.Resources.Tournament
+@{
+    ViewBag.Title = "Tournament";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.TournamentViewModel
+<h2 style=" margin-left:260px; font-style: oblique;">@Tournament.Create</h2>
+
+@using (Html.BeginForm())
+{
+    <label class="names-field-registration"> @Tournament.TournamentName </label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.TournamentName, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+    <br>
+    <br>
+    <div style="margin-left: 270px;">
+        <span class="blue-button">
+            <input type="submit" value="@Tournament.Create" class="button-class-login" />
+        </span>
+    </div>
+}
+
+<div style=" position:absolute;top: 270px; left:700px;">
+    <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+</div>
+

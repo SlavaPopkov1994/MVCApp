@@ -1,0 +1,37 @@
+﻿@using MvcApplication1.Resources.Account
+@{
+    ViewBag.Title = "AllProfiles";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.ProfileList
+<h2 style=" margin-left:300px; font-style: oblique;">@AllProfiles.AllProf</h2>
+
+@using (Html.BeginForm())
+{ 
+    <table border="1" style=" border:2px solid #B22222; text-align: center;">
+    <tr style="border-bottom: solid 5px #A30000; margin-bottom: 0px; background: #A30000; color: white;">
+        <td>@AllProfiles.Surname <input type="image" src="../Images/1.png" value=""></td>
+        <td>@AllProfiles.Name</td>
+        <td>@AllProfiles.MiddleName</td>
+        <td>@AllProfiles.Email</td>
+        <td>@AllProfiles.Comments</td>
+        <td>@AllProfiles.Phone</td>
+        <td>@AllProfiles.Password</td>
+        <td></td>
+    </tr>
+    @foreach (var profile in Model.ProfilesList)
+    {
+        <tr>
+            <td>@profile.Surname      </td>
+            <td>@profile.Name         </td>
+            <td>@profile.Middle_name  </td>
+            <td>@profile.Email        </td>
+            <td>@profile.Comments     </td>
+            <td>@profile.Phone        </td>
+            <td>@profile.Password     </td>
+            <td>@Html.ActionLink(AllProfiles.СhangeData, "EditingOfAllProfiles", "Account", new { surname = profile.Surname, name = profile.Name, middle_name = profile.Middle_name, email = profile.Email, comments = profile.Comments, phone = profile.Phone, password = profile.Password, photo = profile.Upload }, null) </td>
+        </tr>
+    }
+</table>
+}

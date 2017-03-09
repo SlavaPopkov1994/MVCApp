@@ -1,0 +1,47 @@
+﻿@using MvcApplication1.Resources.Account
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.LoginViewModel
+
+
+
+@using (Html.BeginForm())
+{
+
+    <h1 style="font-size:22px;  font-style: oblique; margin-left: 350px;">@Login.Title1</h1>
+    <br>
+
+    <label style="font-size:22px;  font-style: oblique; margin-left: 130px;">@Login.Title</label>
+    <br>
+    <br>
+    <label class="names-field-registration"> @Login.Log</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Login, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @Login.Pas</label>
+    <span class="text-box">
+        @Html.PasswordFor(m => m.Password, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+
+    <br>
+    <br>
+
+    <span class="text-box">
+        <input type="submit" value="@Login.Enter" class="button-class-login " />
+    </span>
+    if (Model.UserNotExist)
+    {
+        <span style="color:red;">User with this login and password doesn't exist</span>
+    }
+
+    <div style=" position:absolute;top: 250px; left: 800px;">
+        <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+    </div>
+
+}

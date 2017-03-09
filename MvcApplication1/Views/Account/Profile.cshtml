@@ -1,0 +1,150 @@
+﻿@using MvcApplication1.Resources.Account
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@model MvcApplication1.Models.ProfileViewModel
+
+@using (Html.BeginForm("Profile", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <h1 style=" font-style: oblique; margin-left: 470px;">@Profil.Prof</h1>
+    
+    <table>
+        <tr>
+            <td style="width:70px;"></td>
+            <td style="width:420px;">
+                <div style="border: solid 5px #543A47; border-radius: 5px; width:300px;">
+                    <img src="@Url.Content(Model.Upload)" width="300px" />
+                </div>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td></td>
+                        <td>
+                            @if (MvcApplication1.Helpers.UserContext.IsAdmin)
+                            {
+                                <div style=" text-align: center;  background-color: #31d4f9;  border-radius: 15px; border: solid 2px #951fea; ">
+                                        @Html.ActionLink(Profil.AllProfiles, "AllProfiles", "Account")
+                                </div>
+                                <br />
+                            }
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width:200px;">
+                            <label> @Profil.Surname</label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Surname, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.Name</label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Name, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.MiddleName</label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Middle_name, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.Phone</label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Phone, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.Comments </label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Comments, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                                @Html.ValidationMessageFor(model => model.Comments)
+                            </span>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.Photo </label>
+                            @Html.HiddenFor(m => m.Upload, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+
+                        </td>
+                        <td>
+                            <span>
+                                <input type="file" name="Image" /><br>
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.Password  </label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Password, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>
+                            <label> @Profil.RepeatPassword  </label>
+                        </td>
+                        <td>
+                            <span>
+                                @Html.TextBoxFor(m => m.Repeat_password, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                                @Html.ValidationMessageFor(model => model.Repeat_password)
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>
+                                @Html.HiddenFor(m => m.Email, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <span>
+                                <input type="submit" value="@Profil.СhangeData" class="button-class-login" />
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td style="width:200px;"></td>
+            <td>
+                <div>
+                    <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+                </div>
+            </td>
+        </tr>
+    </table>
+   
+}

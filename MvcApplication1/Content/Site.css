@@ -1,0 +1,233 @@
+﻿body {
+    font-size: .85em;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header, footer, nav, section {
+    display: block;
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+
+
+/* main layout
+    ----------------------------------------------------------*/
+.main-layout {
+    background: url("../Images/3.png") no-repeat;
+    font-size: 10.6em;
+}
+
+.image {
+     background: url("../Images/2.png") no-repeat;
+     font-size: 10.6em;
+}
+
+
+.button-class-login {
+    border: 1px solid rgba(0,0,0,.04);
+    margin: 22px 0 0;
+    display: block;
+    border-radius: 4px;
+    width: 230px;
+    height: 50px;
+    font-size: 1.01em;
+    background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%);
+}
+
+
+/*для  text-box при регисрации и при входе*/
+.text-box {
+    margin-bottom:10px;
+    position:absolute;
+    left: 400px;
+    font-size: 15px;
+    text-align: center;
+   
+    
+}
+
+/*для лейбочек при регистрации и входе*/
+.names-field-registration {
+    font-style: oblique;
+    font-size: 1.1em;
+    padding-left: 130px;
+}
+
+.page-header {
+}
+
+.site-logo {
+    display: inline-block;
+    width: 80%;
+    font-style: oblique;
+    
+ 
+
+   /* background: url("../Images/3.png") no-repeat;*/
+}
+
+
+
+.header-menu {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+
+.languages-box {
+    font-size: 15px;
+}
+
+.user-info {
+    font-size:15px;
+    border:solid 5px #543A47;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.language-item {
+    background-color: #A7758E;
+    padding: 5px;
+    width: 92px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.top-menu {
+    font-size: 25px;
+    border-bottom:solid 5px #543A47;
+    text-align: center;
+    height:48px;
+}
+
+.top-menu-item {
+    background-color: #A7758E;
+    padding: 5px;
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 15px 15px 0 0;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.account-menu-item {
+    background-color: #A7758E;
+    font-size:15px;
+       padding: 5px;
+    width: 82px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 15px ;
+    text-align: center;
+    color: white;
+    text-decoration: none; 
+}
+
+.account-menu-item-logout {
+    background-color: #A7758E;
+    font-size:15px;
+    padding: 5px;
+    width: 175px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 15px;
+    text-align: center;
+    color: white;
+    text-decoration: none; 
+}
+
+.top-menu-item:hover{
+    border-bottom:solid 5px #A30000;
+    margin-bottom: 0px;
+    color: #A30000;
+}
+
+.main-content{
+    font-size: 20px;
+
+}
+
+.field-profile{
+   
+    height: 34px; 
+    font-size:20px;
+    border-radius:5px;  
+    border:1px solid #e1e1e1;
+    font-style: oblique;
+}
+
+.blue-button {
+    border-radius: 4px;
+    width: 250px;
+    height: 35px;
+    font-size: 1.0em;
+    background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%);
+    text-align: center;
+  
+}
+
+footer{
+   position: absolute;
+   bottom: 0;
+   height: 80px;
+    padding-left: 730px;
+}

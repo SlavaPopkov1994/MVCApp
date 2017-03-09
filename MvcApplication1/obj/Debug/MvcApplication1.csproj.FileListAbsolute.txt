@@ -1,0 +1,371 @@
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\BusinessLogic.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Database.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Database.pdb
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApplication\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\bin\ru-Ru\MvcApplication1.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Login.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Login.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.csproj.GenerateResource.Cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\ru-Ru\MvcApplication1.resources.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.NewLogin.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.NewLogin.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Profil.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.Index.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Profil.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.Index.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.TermsUse.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.TermsUse.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared._Layout.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared._Layout.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared.Error.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared.Error.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.EditingOfAllProfiles.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.EditingOfAllProfiles.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.AllProfiles.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.AllProfiles.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.AllTournaments.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.AllTournaments.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.EditingPoints.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.Tournament.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.EditingPoints.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.Tournament.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru-Ru\MvcApplication1.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Database.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\EntityFramework.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Optimization.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Providers.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\WebGrease.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Database.pdb
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\EntityFramework.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Http.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Providers.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.AllProfiles.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Login.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.NewLogin.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.EditingOfAllProfiles.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Profil.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.Index.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.TermsUse.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared.Error.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared._Layout.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.AllTournaments.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.EditingPoints.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.Tournament.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.AllProfiles.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Login.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.NewLogin.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.EditingOfAllProfiles.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Account.Profil.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.Index.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Information.TermsUse.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared.Error.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Shared._Layout.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.AllTournaments.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.EditingPoints.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.Resources.Tournament.Tournament.ru-Ru.resources
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.csproj.GenerateResource.Cache
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\ru-Ru\MvcApplication1.resources.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Slavik\Desktop\MvcApp\MvcApplication1\obj\Debug\MvcApplication1.pdb

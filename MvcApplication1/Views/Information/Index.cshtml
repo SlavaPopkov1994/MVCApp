@@ -1,0 +1,39 @@
+﻿@using MvcApplication1.Resources.Information
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    ul {
+        padding: 0; /* Убираем поля */
+        margin-left: 350px; /* Отступ слева */
+    }
+</style>
+
+<font style="font-family:Monotype Corsiva; font-size:27px;  color:#000000; line-height: 1.5  ">
+    <center>
+
+        <h1>@Index.Title</h1>
+    </center>
+</font>
+
+<font style="font-family:Monotype Corsiva; font-size:27px;  color:#666060; line-height: 1.5  ">
+    <ul>
+        <p>
+            @Index.Text1
+        </p>
+            @Index.Text2
+        <br>
+            @Index.Text3
+            <br>
+            @Index.Text4
+        <br>
+            @Index.Text5
+        <br>
+            @Index.Text6
+        <p>
+            @Index.Text7
+        </p>
+    </ul>
+</font>

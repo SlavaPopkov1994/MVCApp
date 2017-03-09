@@ -1,0 +1,42 @@
+﻿@using MvcApplication1.Resources.Tournament
+@{
+    ViewBag.Title = "EditingPoints";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style=" margin-left:130px; font-style: oblique;">
+    <span style=" background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%); text-align: center;  padding:2px 40px; border-radius:15px; border:2px solid #7d17ad; font-size:20px;">
+        @Html.ActionLink(EditingPoints.Ago, "TournamentTable", "Tournament", new { tournamentId = Model.IdTournament }, null)
+    </span>
+    <span style="padding:140px;">
+        @EditingPoints.Editing
+    </span>
+</h2>
+@model MvcApplication1.Models.EditingPointsViewModel
+
+@using (Html.BeginForm())
+{
+    <label class="names-field-registration"> @EditingPoints.FirstPlayer </label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.PointsPlayer1, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @EditingPoints.SecondPlayer </label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.PointsPlayer2, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+    <br>
+    <br>
+    <div style=" margin-left:280px;">
+        <span>
+            <input type="submit" value="@EditingPoints.FillBy" class="button-class-login" />
+        </span>
+    </div>
+}
+
+
+
+<div style=" position:absolute;top: 250px; left:720px;">
+    <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+</div>

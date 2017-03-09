@@ -1,0 +1,12 @@
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\BusinessLogic\bin\Debug\Database.pdb

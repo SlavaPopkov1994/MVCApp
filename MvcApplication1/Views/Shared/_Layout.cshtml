@@ -1,0 +1,63 @@
+﻿@using MvcApplication1.Resources.Shared
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+
+<body>
+    <div class="main-layout">
+
+        <div class="page-header">
+            <div class="site-logo">
+                sport 
+            </div>
+            <div class="header-menu">
+                <div class="languages-box">
+                    @Html.ActionLink("English", "ChangeCulture", "Account", new { lang = "en-GB", returnUrl = this.Request.RawUrl }, new { @class = "language-item" })
+                    @Html.ActionLink("Русский", "ChangeCulture", "Account", new { lang = "ru-RU", returnUrl = this.Request.RawUrl }, new { @class = "language-item" })
+                </div>
+                <div class="user-info">
+                    @if (!MvcApplication1.Helpers.UserContext.IsUserAuthenticated)
+                    {
+                        @Html.ActionLink(_Layout.LogIn, "Login", "Account", null, new { @class = "account-menu-item" })
+                        @Html.ActionLink(_Layout.SignUp, "NewLogin", "Account", null, new { @class = "account-menu-item"  })
+                    }
+                    else
+                    {
+                        @Html.ActionLink(_Layout.LogOut, "LogOut", "Account", null, new { @class = "account-menu-item-logout" })
+                         <p>
+                             <span style=" font-style: oblique; font-size: 1.6em; padding: 5px;">
+                                 @MvcApplication1.Helpers.UserContext.GetCurrentUser().Name
+                             </span>
+                         </p>
+                    }
+                </div>
+            </div>
+        </div>
+        <div class="top-menu">
+            @Html.ActionLink(_Layout.About, "Index", "Information", null, new { @class = "top-menu-item" })
+            @Html.ActionLink(_Layout.Rules, "TermsUse", "Information", null, new { @class = "top-menu-item" })
+            @if (MvcApplication1.Helpers.UserContext.IsUserAuthenticated)
+            {
+                @Html.ActionLink(_Layout.Profile, "Profile", "Account", null, new { @class = "top-menu-item" })
+                @Html.ActionLink(_Layout.Tournaments, "AllTournaments", "Tournament", null, new { @class = "top-menu-item" })
+            }
+        </div>
+        <div class="main-content">
+            @RenderBody()
+        </div>
+    </div>
+
+    
+    <footer>
+           <p style="text-align: center;">&copy;  @DateTime.Now.Year — @_Layout.BottomTitle</p>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

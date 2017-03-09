@@ -1,0 +1,67 @@
+﻿@using MvcApplication1.Resources.Tournament
+@{
+    ViewBag.Title = "AllTournaments";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.TournamentList
+
+<h2 style=" margin-left:260px; font-style: oblique;">@AllTournaments.AllTour</h2>
+
+@using (Html.BeginForm())
+{ 
+<table border="1" style=" border:2px solid #B22222; text-align: center; ">
+    <tr style="border-bottom: solid 5px #A30000; margin-bottom: 0px; background: #A30000; color:white; ">
+        <td>@AllTournaments.TournamentName</td>
+        <td>@AllTournaments.StartDate <input type="image" src="../Images/1.png" value="">  </td>
+        <td>@AllTournaments.IsActive</td>
+        <td>@AllTournaments.NumberOfRequest</td>
+        <td></td>
+    </tr>
+
+    @foreach (var tournament in Model.TournamentsList)
+    {
+        <tr>
+            <td>@tournament.TournamentName </td>
+            <td>@tournament.StartDate.Day.@tournament.StartDate.Month.@tournament.StartDate.Year   </td>
+            <td>@if (tournament.IsActive == true) { <text>Yes</text> }   else {<text>No</text>}    </td>
+            <td>@tournament.NumberOfRequest</td>
+            @if (!MvcApplication1.Helpers.UserContext.IsAdmin)
+            {
+                if(tournament.IsActive)
+                { 
+                <td> @Html.ActionLink(AllTournaments.Apply, "CreateRequestForTournament", "Tournament", new { tournamentId = tournament.IdTournament }, null)</td>
+                }
+            }
+            else
+            {
+                 if(tournament.IsActive)
+                { 
+                <td> @Html.ActionLink(AllTournaments.Start, "StartTournament", "Tournament", new { tournamentId = tournament.IdTournament }, null) </td>
+                }
+            }
+
+            @if (!tournament.IsActive)
+            {
+                <td style=" background-color:#31b9ff;">
+                    @Html.ActionLink(AllTournaments.Details, "TournamentTable", "Tournament", new { tournamentId = tournament.IdTournament }, null)
+                </td>
+            }
+        </tr>
+    }
+</table>
+}
+<br />
+<br />
+@if (MvcApplication1.Helpers.UserContext.IsAdmin)
+{
+        <span style=" background: linear-gradient(to bottom,#31b9ff 0,#00a8ff 100%); text-align: center; margin-left: 280px; padding: 8px; border-radius:5px; border:2px solid #7d17ad;">
+            @Html.ActionLink(AllTournaments.CreateTournament, "Tournament", "Tournament")
+        </span>
+    <br>
+    <br>
+}
+<div style=" position:absolute;top: 270px; left:900px;">
+    <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+</div>
+

@@ -1,0 +1,25 @@
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\Database\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\Database\bin\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\Database\obj\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия\Database\obj\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\Database\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\Database\bin\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.pdb
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\Database\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\Database\bin\Debug\Database.pdb
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.dll
+C:\Users\Slavik\Desktop\Практика Sigma\MvcApplication1 - копия - копия - копия\Database\obj\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication\Database\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication\Database\bin\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApplication\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApplication\Database\obj\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApplication\Database\obj\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApp\Database\bin\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApp\Database\bin\Debug\Database.pdb
+C:\Users\Slavik\Desktop\MvcApp\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\Users\Slavik\Desktop\MvcApp\Database\obj\Debug\Database.dll
+C:\Users\Slavik\Desktop\MvcApp\Database\obj\Debug\Database.pdb

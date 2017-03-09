@@ -1,0 +1,85 @@
+﻿@using MvcApplication1.Resources.Account
+
+@{
+    ViewBag.Title = "NewLogin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model MvcApplication1.Models.NewLoginViewModel
+
+
+
+@using (Html.BeginForm("NewLogin", "Account", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+
+    <h2 style="font-size:22px;  font-style: oblique; margin-left: 320px;">@NewLogin.Title</h2>
+
+    <label class="names-field-registration">@NewLogin.Sur </label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Surname, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1; " })
+        @Html.ValidationMessageFor(model => model.Surname)
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Nam</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Name, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+        @Html.ValidationMessageFor(model => model.Name)
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Middle</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Middle_name, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Emai</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Email, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+        @Html.ValidationMessageFor(model => model.Email)
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Phon</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Phone, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Com</label>
+    <span class="text-box">
+        @Html.TextBoxFor(m => m.Comments, new { style = "height: 34px;font-size:20px;border-radius: 5px; border:1px solid #e1e1e1;" })
+        @Html.ValidationMessageFor(model => model.Comments)
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.URL</label>
+    <span class="text-box">
+        <input type="file" name="Upload" /><br>
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Pas</label>
+    <span class="text-box">
+        @Html.PasswordFor(m => m.Password, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+        @Html.ValidationMessageFor(model => model.Password)
+    </span>
+    <br>
+    <br>
+    <label class="names-field-registration"> @NewLogin.Repeat</label>
+    <span class="text-box">
+        @Html.PasswordFor(m => m.Repeat_password, new { style = "height: 34px; font-size:20px;border-radius:5px;  border:1px solid #e1e1e1;" })
+        @Html.ValidationMessageFor(model => model.Repeat_password)
+        <
+    </span>
+    <br>
+    <br>
+    <span class="text-box">
+        <input type="submit" value="@NewLogin.SignUp" class="button-class-login" />
+    </span>
+    <div style=" position:absolute;top: 250px; left: 800px;">
+        <<p><img src="../Images/2.png" width="500" height="500" align="top" />
+    </div>
+
+}
